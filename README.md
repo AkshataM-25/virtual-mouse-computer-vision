@@ -1,6 +1,6 @@
 # virtual-mouse-computer-vision
-# Virtual Mouse Using Computer Vision
-Hand gesture–based virtual mouse using OpenCV and MediaPipe.
+ 
+# Hand gesture–based virtual mouse using OpenCV and MediaPipe.
 
 # Project Overview
 - This project is a computer vision–based virtual mouse system that allows users to control mouse operations using hand gestures in real time.
